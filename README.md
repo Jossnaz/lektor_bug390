@@ -2,6 +2,8 @@
 
 steps to reproduce error:
 
+On lektor dev master as of 2017-08-24
+
 clone project
 
 cd into project
