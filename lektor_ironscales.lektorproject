@@ -1,0 +1,5 @@
+[project]
+name = lektor_bug390
+url = http://localhost:5000
+
+[packages]

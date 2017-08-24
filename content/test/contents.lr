@@ -1,0 +1,38 @@
+_model: blog-post
+---
+title: test blog entry
+---
+body:
+
+#### heading ####
+text: some big h1 heading
+----
+size: 1
+#### heading ####
+text: some h2 heading
+----
+size: 2
+#### text ####
+text:
+
+some text
+
+with newlines
+
+and other stuff
+----
+class: left
+#### image ####
+image: studio.png
+----
+alignment: left
+----
+size: medium
+----
+caption: some caption about the image
+---
+categories: sub-category-2-lukas, test-category-fifty-five
+---
+featured_image: cool-hand-luke-di-4.jpg
+---
+pub_date: 2017-08-02

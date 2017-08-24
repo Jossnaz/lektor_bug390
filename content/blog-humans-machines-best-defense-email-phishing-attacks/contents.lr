@@ -1,0 +1,18 @@
+_model: blog-post
+---
+title: blog-humans-machines-best-defense-email-phishing-attacks
+---
+author: lukas test author name
+---
+body:
+
+#### heading ####
+text: test heading 1
+----
+size: 1
+#### heading ####
+text: test heading 2
+----
+size: 2
+---
+pub_date: 2017-07-06
